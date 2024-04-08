@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="title">Assignment 5 lxx789</string>
+    <string name="sort_by_date">Sort By Date</string>
+    <string name="sort_by_name">Sort By Name</string>
+    <string name="sort_by_category">Sort By Category</string>
+    <string name="details">Details</string>
+
+</resources>
